@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student id="0">
+        <name>a</name>
+        <age>1</age>
+        <book>
+            <auther>三毛</auther>
+            <price>23</price>
+            <title>田间的梦想</title>
+        </book>
+    </student>
+    <student id="1">
+        <name>g</name>
+        <age>34</age>
+        <book>
+            <auther>三si毛</auther>
+            <price>43</price>
+            <title>梦想</title>
+        </book>
+    </student>
+
+    <student id="2">
+        <name>s</name>
+        <age>1</age>
+        <book>
+            <auther>三毛</auther>
+            <price>23</price>
+            <title>田间的梦想</title>
+        </book>
+    </student>
+</students>
